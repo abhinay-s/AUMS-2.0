@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "725118839949",
-    "firebase_url": "https://aums-new.firebaseio.com",
-    "project_id": "aums-new",
-    "storage_bucket": "aums-new.appspot.com"
+    "project_number": "638343270638",
+    "firebase_url": "https://aums-20.firebaseio.com",
+    "project_id": "aums-20",
+    "storage_bucket": "aums-20.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:725118839949:android:4b53e9a19c191edf4bc6c4",
+        "mobilesdk_app_id": "1:638343270638:android:f348d223de677ab60223ff",
         "android_client_info": {
           "package_name": "com.example.aums20"
         }
       },
       "oauth_client": [
         {
-          "client_id": "725118839949-aomqbgno2o7l3qrlcugpofn134hbprng.apps.googleusercontent.com",
+          "client_id": "638343270638-ccmfc1ak746b94vff4u7ejui3qr8m6t3.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDiXDIVri7DXtHUBgW-6w8hJTtgGF04pvc"
+          "current_key": "AIzaSyDCY5jvO3Xe91Dmmo5MDuJQBM7P6UgKaPc"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "725118839949-aomqbgno2o7l3qrlcugpofn134hbprng.apps.googleusercontent.com",
+              "client_id": "638343270638-ccmfc1ak746b94vff4u7ejui3qr8m6t3.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
