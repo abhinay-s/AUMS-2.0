@@ -41,7 +41,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Select PDF"
+                    android:text="Select Pdf"
                     android:textStyle="bold"
                     android:padding="5dp"
                     android:layout_marginTop="10dp"
@@ -49,6 +49,15 @@
 
             </LinearLayout>
         </com.google.android.material.card.MaterialCardView>
+
+        <TextView
+            android:id="@+id/pdfTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="No file Selected"
+            android:layout_gravity="center"
+            android:textSize="16sp"/>
+
 
         <com.google.android.material.textfield.TextInputLayout
             android:layout_marginTop="16dp"
@@ -61,7 +70,7 @@
                 android:id="@+id/pdfTitle"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:hint="PDF Title" />
+                android:hint="Pdf Title" />
 
         </com.google.android.material.textfield.TextInputLayout>
 
