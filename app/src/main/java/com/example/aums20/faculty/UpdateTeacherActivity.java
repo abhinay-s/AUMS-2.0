@@ -1,4 +1,7 @@
 package com.example.aums20.faculty;
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
+import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.graphics.Bitmap;
@@ -26,10 +29,6 @@ import com.squareup.picasso.Picasso;
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 import java.util.HashMap;
-
-import androidx.annotation.NonNull;
-import androidx.annotation.Nullable;
-import androidx.appcompat.app.AppCompatActivity;
 
 public class UpdateTeacherActivity extends AppCompatActivity {
 
@@ -219,4 +218,7 @@ public class UpdateTeacherActivity extends AppCompatActivity {
             updateTeacherImage.setImageBitmap(bitmap);
         }
     }
+
+
+
 }

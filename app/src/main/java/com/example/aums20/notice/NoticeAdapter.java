@@ -1,5 +1,6 @@
 package com.example.aums20.notice;
 
+
 import android.content.Context;
 import android.content.DialogInterface;
 import android.view.LayoutInflater;
@@ -10,6 +11,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.example.aums20.NoticeData;
 import com.example.aums20.R;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.OnFailureListener;

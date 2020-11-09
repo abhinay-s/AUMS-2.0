@@ -61,9 +61,9 @@
                 android:id="@+id/teacherImage"
                 android:layout_width="80dp"
                 android:layout_height="120dp"
+                android:src="@drawable/avatarprofile"
                 android:layout_gravity="center_horizontal"
-                android:layout_weight="0.5"
-                android:src="@drawable/download" />
+                android:layout_weight="0.5"/>
 
         </LinearLayout>
 

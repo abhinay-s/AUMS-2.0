@@ -18,7 +18,7 @@
             <de.hdodenhof.circleimageview.CircleImageView
                 android:layout_width="36dp"
                 android:layout_height="36dp"
-                android:src="@drawable/download" />
+                android:src="@drawable/avatarprofile"/>
 
             <TextView
                 android:layout_width="match_parent"

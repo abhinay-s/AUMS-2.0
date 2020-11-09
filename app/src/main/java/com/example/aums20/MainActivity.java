@@ -8,7 +8,6 @@ import android.os.Bundle;
 import android.view.View;
 
 import com.example.aums20.faculty.UpdateFaculty;
-import com.example.aums20.notice.UploadNotice;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
@@ -36,7 +35,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         Intent intent;
         switch(view.getId()){
             case R.id.addNotice:
-                intent=new Intent(MainActivity.this, UploadNotice.class);
+                intent=new Intent(MainActivity.this,UploadNotice.class);
                 startActivity(intent);
                 break;
             case R.id.addGalleryImage:

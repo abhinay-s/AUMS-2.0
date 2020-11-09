@@ -181,34 +181,34 @@
             android:layout_margin="10dp"
             android:id="@+id/deleteNotice">
 
-            <LinearLayout
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:orientation="vertical"
-                android:gravity="center">
+<!--            <LinearLayout-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="match_parent"-->
+<!--                android:orientation="vertical"-->
+<!--                android:gravity="center">-->
 
-                <ImageView
-                    android:layout_width="64dp"
-                    android:layout_height="64dp"
-                    android:src="@drawable/ic_delete"
-                    android:padding="15dp"/>
+<!--                <ImageView-->
+<!--                    android:layout_width="64dp"-->
+<!--                    android:layout_height="64dp"-->
+<!--                    android:src="@drawable/ic_delete"-->
+<!--                    android:padding="15dp"/>-->
 
-                <View
-                    android:layout_width="match_parent"
-                    android:layout_height="1dp"
-                    android:background="@color/lightGrey"
-                    android:layout_marginTop="10dp"/>
+<!--                <View-->
+<!--                    android:layout_width="match_parent"-->
+<!--                    android:layout_height="1dp"-->
+<!--                    android:background="@color/lightGrey"-->
+<!--                    android:layout_marginTop="10dp"/>-->
 
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="Delete Notice"
-                    android:textStyle="bold"
-                    android:padding="5dp"
-                    android:layout_marginTop="10dp"
-                    android:textColor="@color/textColor"/>
+<!--                <TextView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="Delete Notice"-->
+<!--                    android:textStyle="bold"-->
+<!--                    android:padding="5dp"-->
+<!--                    android:layout_marginTop="10dp"-->
+<!--                    android:textColor="@color/textColor"/>-->
 
-            </LinearLayout>
+<!--            </LinearLayout>-->
         </com.google.android.material.card.MaterialCardView>
 
     </LinearLayout>

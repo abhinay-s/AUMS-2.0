@@ -1,4 +1,4 @@
-package com.example.aums20.notice;
+package com.example.aums20;
 
 public class NoticeData {
     String title, image, date, time, key;
